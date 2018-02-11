@@ -1,0 +1,23 @@
+
+h1{
+  font-family: 'Montserrat' sans-serif;
+  color: white;
+  font-size: 30px;
+  margin-top: 40px;
+  
+}
+form{
+  width: 40%;
+  margin: auto;
+}
+.container{
+  width: 40%;
+}
+.text-center{
+  color: white;
+  
+}
+  
+      .button{
+        background-color: #00ffff;
+      }
